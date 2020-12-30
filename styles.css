@@ -1,0 +1,21 @@
+.main {
+    max-width: 40rem;
+}
+.card-img {
+    height: 25rem;
+    width: auto;
+    overflow: hidden !important;
+    object-fit: cover;
+}
+
+body, html {
+    overflow-x: hidden;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.card {
+    background-color: #D9D6C5;
+    color: #3B332F;
+}
